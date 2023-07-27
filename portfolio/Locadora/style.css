@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #7098e4;
+}
+
+.container > .table > thead {
+  background-color: rgb(54, 116, 230);
+}
+
+.container > .table > tbody > th {
+  background-color: rgb(72, 128, 233);
+}
