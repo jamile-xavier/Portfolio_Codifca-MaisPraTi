@@ -1,7 +1,10 @@
-#Portfólio MaisPraTi
+#PORTFÓLIO MAIS PRA TI
 
-🎯 OBJETIVO
-Portfólio criado no curso de desenvolvimento web Mais Pra Ti com intuito de divulgar os trabalhos desenvolvidos durante o curso.
+Criação de um portfólio no curso de desenvolvimento web Mais Pra Ti.
+
+🎯 OBJETIVOS
+
+Divulgação dos trabalhos desenvolvidos durante o curso.
 
 💻 TECNOLOGIAS UTILIZADAS
 
